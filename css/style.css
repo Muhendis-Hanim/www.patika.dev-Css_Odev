@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+     background: #0e0e0e; 
+     height: 100%;
+}
+
+a{
+    margin: 1rem;
+}
+section{
+    background: white;
+    margin: 10rem;
+    height: auto;
+    padding: 2rem;
+    text-align: center;
+}
+h1{
+    color: rgb(136, 21, 197);
+}
+h2{
+    color: rgb(209, 94, 18);
+}
+h4{
+    display: flex;
+    color: rgb(155, 17, 100);
+    font-size: xx-large;
+    font-family: 'Rubik Pixels', cursive;
+
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+    display: flex;
+}
+#yellowP{
+    font-family: 'Poppins', sans-serif;
+}
+ul{
+    display: inline-block;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
